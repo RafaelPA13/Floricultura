@@ -1,0 +1,27 @@
+body label{
+    font-size: 30px;
+    font-family: 'Arial';
+    color:#2E8B57;
+    margin-top: 5px;
+}
+
+body input{
+    padding: 10px;
+    border-radius: 15px;
+}
+
+body button{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    
+    color: #2E8B57;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+body button:hover{
+    color: #fff;
+    background-color: #2E8B57;
+}

@@ -1,0 +1,16 @@
+footer{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #F8F8FF;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+

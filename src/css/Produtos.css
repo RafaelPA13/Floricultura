@@ -1,0 +1,47 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2E8B57;
+    padding: 10px;
+
+    font-size: 25px;
+    color: #F8F8FF;
+}
+
+.flores{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    border: 30px #1C1C1C;
+}
+
+.flores img{
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+}
+
+.dados{
+    flex-direction: column;
+    font-size: 20px;
+    font-family: 'Arial';
+}
+
+.flores:hover{
+    background-color: #C0C0C0;
+}
+
+.site{
+    width: 100%;
+    background-color: #1C1C1C;
+    padding: 50px;
+    align-items: center;
+
+    color: #fff;
+    font-family: 'Arial';
+}
+
+.site h1{
+    color: #fff;
+}
